@@ -6,3 +6,5 @@ Pois é. Se você não sabe realizar esse cálculo ou está com preguiça de mon
 
 Está aqui uma ferramenta para fazer o cáculo por você.
 Insira os dados e receba o resultado de forma simples e rápida.
+
+Acesse: https://chrisacorrea.github.io/QCMPH/
